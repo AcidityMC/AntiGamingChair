@@ -1,2 +1,3 @@
 # AntiGamingChair
-Modified version of AntiGamingChair (5+ year old build used on MinemenClub)
+## About
+This repository holds code for our version of AntiGamingChair, which is a Minecraft anti-cheat solution for Bukkit/Spigot/Paper servers.
